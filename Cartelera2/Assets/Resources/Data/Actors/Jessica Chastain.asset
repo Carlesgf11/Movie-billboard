@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a6ae9c70666e2d44a1d3a3f6ba8a504, type: 3}
+  m_Name: Jessica Chastain
+  m_EditorClassIdentifier: 
+  actorName: Jessica Chastain
+  biography:
+  - "(Sacramento, California; 24 de marzo de 1977) es una actriz y productora de
+    cine estadounidense. Despu\xE9s de interpretar peque\xF1os papeles en series
+    de televisi\xF3n, hizo su debut en la gran pantalla con la pel\xEDcula independiente
+    Jolene en 2008. En 2011, la popularidad de Chastain se dispar\xF3 gracias a su
+    trabajo en siete pel\xEDculas diferentes."
+  - (Sacramento, California, March 24, 1977) is an American actress and film producer.
+    After playing small roles in television series, she made her big screen debut
+    with the independent film Jolene in 2008. In 2011, Chastain's popularity skyrocketed
+    thanks to her work in seven different films.
+  countryFlag: {fileID: -3817927813742870854, guid: c4de6197ddb07ce47b4c22ad5d30f7d6, type: 3}
+  portrait: {fileID: 2187398579565600066, guid: fcfa17a82fc82894d8409f4e48cbc84a, type: 3}
+  sex: 1

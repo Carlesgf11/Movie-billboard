@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: afb588dfb0f6a8940a9baac82461a389, type: 3}
+  m_Name: Joker
+  m_EditorClassIdentifier: 
+  title:
+  - El Wason
+  - 'Joker '
+  year: 2019
+  sinopsis:
+  - "Arthur Fleck (Phoenix) vive en Gotham con su madre, y su \xFAnica motivaci\xF3n
+    en la vida es hacer re\xEDr a la gente. Act\xFAa haciendo de payaso en peque\xF1os
+    trabajos, pero tiene problemas mentales que hacen que la gente le vea como un
+    bicho raro. Su gran sue\xF1o es actuar como c\xF3mico delante del p\xFAblico,
+    pero una serie de tr\xE1gicos acontecimientos le har\xE1 ir incrementando su
+    ira contra una sociedad que le ignora. "
+  - Arthur Fleck (Phoenix) lives in Gotham with his mother, and his only motivation
+    in life is to make people laugh. He acts like a clown in small jobs, but he has
+    mental problems that make people see him as a weirdo. His great dream is to act
+    as a comedian in front of the public, but a series of tragic events will make
+    him increase his anger against a society that ignores him.
+  countryFlag: {fileID: -3817927813742870854, guid: c4de6197ddb07ce47b4c22ad5d30f7d6, type: 3}
+  cover: {fileID: 21300000, guid: c19a9488d3bdcad4ba141b85622fbc70, type: 3}
+  staff:
+  - {fileID: 11400000, guid: 2bf802d1ca7d08f4cb42fb2441b79e42, type: 2}
+  - {fileID: 11400000, guid: 0293964ae137392458fba491e270074b, type: 2}
+  - {fileID: 11400000, guid: b8f2b93fcc45abf418aa28b33d31ce0c, type: 2}

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a6ae9c70666e2d44a1d3a3f6ba8a504, type: 3}
+  m_Name: Matthew McConaughey
+  m_EditorClassIdentifier: 
+  actorName: Matthew McConaughey
+  biography:
+  - "(Uvalde, Texas; 4 de noviembre de 1969) Es un actor y productor de cine y televisi\xF3n
+    estadounidense. Es ganador de un premio \xD3scar, un Globo de Oro y un SAG. De
+    los papeles televisivos que ha desempe\xF1ado, es especialmente reconocido y
+    aclamado por su interpretaci\xF3n de Rustin \"Rust\" Cohle en la primera temporada
+    de True Detective."
+  - ' (Uvalde, Texas, November 4, 1969) is an American film and television actor
+    and producer. He is the winner of an Oscar, a Golden Globe and a SAG. Of the
+    television roles he has played, he is especially recognized and acclaimed for
+    his portrayal of Rustin "Rust" Cohle in the first season of True Detective.'
+  countryFlag: {fileID: -3817927813742870854, guid: c4de6197ddb07ce47b4c22ad5d30f7d6, type: 3}
+  portrait: {fileID: 1379091041798331982, guid: fcfa17a82fc82894d8409f4e48cbc84a, type: 3}
+  sex:
+  - 'Actor:'
+  - 'Actor:'

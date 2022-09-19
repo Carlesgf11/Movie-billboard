@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a6ae9c70666e2d44a1d3a3f6ba8a504, type: 3}
+  m_Name: Robert De Niro
+  m_EditorClassIdentifier: 
+  actorName: Robert De Niro
+  biography:
+  - "(Nueva York, 17 de agosto de 1943), m\xE1s conocido como Robert De Niro, es
+    un actor, director y productor estadounidense. Ganador de dos premios \xD3scar
+    por su actuaci\xF3n en las pel\xEDculas El padrino: Parte II (1974) como un joven
+    Vito Corleone \u2014convirti\xE9ndose en el primer actor en ganar un \xD3scar
+    por interpretar a un mismo personaje, ya que Marlon Brando tambi\xE9n lo gan\xF3
+    por El padrino (1972)\u2014 y Toro salvaje como Jake LaMotta (1980). Es ampliamente
+    conocido por sus papeles de g\xE1nster y de personajes conflictivos y turbulentos,
+    destacando sus m\xFAltiples colaboraciones con el director Martin Scorsese, y
+    por sus primeros trabajos con el director Brian De Palma."
+  - "(New York, August 17, 1943), better known as Robert De Niro, is an American
+    actor, director and producer. Winner of two Oscars for his performance in the
+    films The Godfather: Part II (1974) as a young Vito Corleone\u2014becoming the
+    first actor to win an Oscar for playing the same character, as Marlon Brando
+    also won for The Godfather (1972)\u2014and Raging Bull as Jake LaMotta (1980).
+    He is widely known for his roles as a gangster and conflicting and turbulent
+    characters, highlighting his multiple collaborations with director Martin Scorsese,
+    and for his early work with director Brian De Palma."
+  countryFlag: {fileID: -6278958402658813788, guid: c4de6197ddb07ce47b4c22ad5d30f7d6, type: 3}
+  portrait: {fileID: 6869859845520941629, guid: fcfa17a82fc82894d8409f4e48cbc84a, type: 3}
+  sex:
+  - 'Actor:'
+  - 'Actor:'

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a6ae9c70666e2d44a1d3a3f6ba8a504, type: 3}
+  m_Name: Daniel Kaluuya
+  m_EditorClassIdentifier: 
+  actorName: Daniel Kaluuya
+  biography:
+  - "(Londres; 24 de febrero de 1989) es un actor, escritor y modelo brit\xE1nico.
+    Ha ganado, entre otros, el premio \xD3scar, SAG, Globo de Oro y BAFTA al mejor
+    actor de reparto por su actuaci\xF3n en Judas and The Black Messiah (2021). Es
+    conocido por haber participado en el segundo episodio de la primera temporada
+    de la serie de televisi\xF3n Black Mirror y en la pel\xEDcula de Jordan Peele
+    Get Out, por la cual recibi\xF3 aclamaci\xF3n por parte de la cr\xEDtica y su
+    primera nominaci\xF3n a los premios de la Academia como mejor actor."
+  - (London, February 24, 1989) is a British actor, writer and model. He has won,
+    among others, the Oscar, SAG, Golden Globe and BAFTA award for best supporting
+    actor for his performance in Judas and The Black Messiah (2021). He is known
+    for having participated in the second episode of the first season of the television
+    series Black Mirror and in the Jordan Peele film Get Out, for which he received
+    critical acclaim and his first Academy Award nomination. as best actor.
+  countryFlag: {fileID: 7604771200750474346, guid: c4de6197ddb07ce47b4c22ad5d30f7d6, type: 3}
+  portrait: {fileID: -5054558024923623561, guid: fcfa17a82fc82894d8409f4e48cbc84a, type: 3}
+  sex:
+  - 'Actor:'
+  - 'Actor:'

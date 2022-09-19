@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: afb588dfb0f6a8940a9baac82461a389, type: 3}
+  m_Name: Get Out
+  m_EditorClassIdentifier: 
+  title:
+  - "D\xE9jame Salir"
+  - Get Out
+  year: 2017
+  sinopsis:
+  - "Un joven afroamericano visita a la familia de su novia blanca, un matrimonio
+    adinerado. Para Chris (Daniel Kaluuya) y su novia Rose (Allison Williams) ha
+    llegado el momento de conocer a los futuros suegros, por lo que ella le invita
+    a pasar un fin de semana en el campo con sus padres, Missy (Catherine Keener)
+    y Dean (Bradley Whitford). Al principio, Chris piensa que el comportamiento \"demasiado\"
+    complaciente de los padres se debe a su nerviosismo por la relaci\xF3n interracial
+    de su hija, pero a medida que pasan las horas, una serie de descubrimientos cada
+    vez m\xE1s inquietantes le llevan a descubrir una verdad inimaginable."
+  - A young African-American man visits the family of his white girlfriend, a wealthy
+    married couple. For Chris (Daniel Kaluuya) and his girlfriend Rose (Allison Williams)
+    the time has come to meet the future in-laws, so she invites him to spend a weekend
+    in the country with her parents, Missy (Catherine Keener) and Dean (Bradley Whitford).
+    At first, Chris thinks the parents' "overly" accommodating behavior is due to
+    their nervousness about their daughter's interracial relationship, but as the
+    hours pass, a series of increasingly disturbing discoveries lead him to uncover
+    a truth. unimaginable.
+  countryFlag: {fileID: -3817927813742870854, guid: c4de6197ddb07ce47b4c22ad5d30f7d6, type: 3}
+  cover: {fileID: 21300000, guid: 205dcf287fd61ec40942fa242a2de834, type: 3}
+  staff:
+  - {fileID: 11400000, guid: 0061e12c32f5b9c4e8ef59d7fc9d3914, type: 2}
+  - {fileID: 11400000, guid: 0c77016037751154ab0ad556ca8da4ee, type: 2}
+  - {fileID: 11400000, guid: ebaa06b4671d7ec4988ca810a2fbdf87, type: 2}

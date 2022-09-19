@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a6ae9c70666e2d44a1d3a3f6ba8a504, type: 3}
+  m_Name: Joaquin Phoenix
+  m_EditorClassIdentifier: 
+  actorName: Joaquin Phoenix
+  biography:
+  - "(registrado como Joaquin Rafael Bottom; San Juan, 28 de octubre de 1974) es
+    un actor estadounidense de origen puertorrique\xF1o, ganador del \xD3scar y nominado
+    en 4 ocasiones a la estatuilla,2\u200B ganador de dos Globos de Oro, de un Grammy,
+    un SAG, un BAFTA, dos Critics Choice Awards, de la Copa Volpi en el Festival
+    Internacional de Cine de Venecia y del premio a Mejor Actor en el Festival de
+    Cannes. Es hermano del actor River Phoenix, y de las actrices Rain, Summer y
+    Liberty Phoenix. "
+  - (registered as Joaquin Rafael Bottom; San Juan, October 28, 1974) is an American
+    actor of Puerto Rican origin, Oscar winner and 4-time nominee for the statuette,
+    winner of two Golden Globes, a Grammy, a SAG, a BAFTA, two Critics Choice Awards,
+    the Volpi Cup at the Venice International Film Festival and the Best Actor award
+    at the Cannes Film Festival. He is the brother of actor River Phoenix, and actresses
+    Rain, Summer and Liberty Phoenix.
+  countryFlag: {fileID: -3817927813742870854, guid: c4de6197ddb07ce47b4c22ad5d30f7d6, type: 3}
+  portrait: {fileID: -4084422054985332318, guid: fcfa17a82fc82894d8409f4e48cbc84a, type: 3}
+  sex:
+  - 'Actor:'
+  - 'Actor:'

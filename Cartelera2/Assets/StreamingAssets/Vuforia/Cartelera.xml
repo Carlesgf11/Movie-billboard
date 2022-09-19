@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="poster01_en_big" size="1.000000 1.428571" />
+    <ImageTarget name="D_jame_salir-290175782-large" size="1.000000 1.481481" />
+    <ImageTarget name="Joker-790658206-large" size="1.000000 1.482702" />
+  </Tracking>
+</QCARConfig>

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a6ae9c70666e2d44a1d3a3f6ba8a504, type: 3}
+  m_Name: Allison Williams
+  m_EditorClassIdentifier: 
+  actorName: Allison Williams
+  biography:
+  - "(New Canaan, 13 de abril de 1988) es una actriz, comediante y m\xFAsico estadounidense.
+    Protagoniza la serie de HBO Girls como Marnie Michaels. "
+  - (New Canaan, April 13, 1988) is an American actress, comedian and musician. She
+    stars in the HBO series Girls as Marnie Michaels.
+  countryFlag: {fileID: -3817927813742870854, guid: c4de6197ddb07ce47b4c22ad5d30f7d6, type: 3}
+  portrait: {fileID: -540701175152505292, guid: fcfa17a82fc82894d8409f4e48cbc84a, type: 3}
+  sex: 1

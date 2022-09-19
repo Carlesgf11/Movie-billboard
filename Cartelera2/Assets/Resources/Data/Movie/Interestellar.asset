@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: afb588dfb0f6a8940a9baac82461a389, type: 3}
+  m_Name: Interestellar
+  m_EditorClassIdentifier: 
+  title:
+  - Interstelar
+  - Interstellar
+  year: 2014
+  sinopsis:
+  - "Ambientada en un futuro dist\xF3pico donde la humanidad est\xE1 luchando por
+    sobrevivir, cuenta la historia de un grupo de astronautas que viajan a trav\xE9s
+    de un agujero de gusano cerca de Saturno en busca de un nuevo hogar para la humanidad."
+  - Set in a dystopian future where humanity is struggling to survive, it tells the
+    story of a group of astronauts traveling through a wormhole near Saturn in search
+    of a new home for humanity.
+  countryFlag: {fileID: -3817927813742870854, guid: c4de6197ddb07ce47b4c22ad5d30f7d6, type: 3}
+  cover: {fileID: 21300000, guid: 090b1bfcc56c1174da7342510d150411, type: 3}
+  staff:
+  - {fileID: 11400000, guid: 49eeb0b4ffa41f44a8f0e88402b9399f, type: 2}
+  - {fileID: 11400000, guid: 6ba6476e0034c9e40a0da140ac9f80df, type: 2}
+  - {fileID: 11400000, guid: ade89baa192f41945918cf84ed21354f, type: 2}
